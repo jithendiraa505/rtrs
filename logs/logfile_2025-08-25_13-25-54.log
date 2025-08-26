@@ -1,0 +1,3 @@
+2025-08-25 13:25:54,844 INFO  utils.LoggerHandler - Opened Google website.
+2025-08-25 13:25:54,858 INFO  utils.LoggerHandler - Closing the browser.
+2025-08-25 13:25:55,065 INFO  utils.LoggerHandler - Browser closed.

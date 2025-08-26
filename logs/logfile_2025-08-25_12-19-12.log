@@ -1,0 +1,6 @@
+2025-08-25 12:19:12,892 INFO  utils.LoggerHandler - Opened Google website.
+2025-08-25 12:19:15,253 INFO  utils.LoggerHandler - Pressed Enter to submit the search.
+2025-08-25 12:19:23,286 DEBUG utils.LoggerHandler - The page title is: {}
+2025-08-25 12:19:23,286 INFO  utils.LoggerHandler - Test passed: testGoogleSearchForMaven
+2025-08-25 12:19:23,286 INFO  utils.LoggerHandler - Closing the browser.
+2025-08-25 12:19:23,560 INFO  utils.LoggerHandler - Browser closed.
